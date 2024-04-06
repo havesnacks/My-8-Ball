@@ -1,4 +1,4 @@
-
+name = "Alex"
 question = "YOUR PROMPT HERE"
 answer = "Yes."
 import random
